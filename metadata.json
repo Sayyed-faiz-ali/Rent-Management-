@@ -1,0 +1,5 @@
+{
+  "name": "Rent Management System",
+  "description": "A comprehensive Rent Management System for property owners to manage tenants, payments, and communication. Tenants can view their payment history, dues, and receive messages from the owner.",
+  "requestFramePermissions": []
+}

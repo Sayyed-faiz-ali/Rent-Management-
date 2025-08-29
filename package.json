@@ -1,0 +1,14 @@
+{
+  "name": "rent-management-system-fullstack",
+  "version": "1.0.0",
+  "description": "Full-stack Rent Management System",
+  "scripts": {
+    "install-backend": "cd backend && npm install",
+    "install-all": "npm install && npm run install-backend",
+    "start-backend": "cd backend && node server.js",
+    "dev": "npm run start-backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
