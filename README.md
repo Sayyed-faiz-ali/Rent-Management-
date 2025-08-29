@@ -15,6 +15,7 @@ This project helps landlords and tenants manage rental agreements, payments, and
 
 ---
 
+</div>
 ## 📦 Installation
 
 Clone the repository:
@@ -22,7 +23,6 @@ Clone the repository:
 git clone https://github.com/Sayyed-faiz-ali/rent-management.git
 cd rent-management
 
-</div>
 
 
 
